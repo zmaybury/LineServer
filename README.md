@@ -9,6 +9,7 @@ ___
 ###Build the project using:
 
   + build.sh - This script will install all dependencies (through npm) and will also appropriately install and configure a MongoDB database instance for use with the api.
+  + Example Useage: ./build.sh
   
 ###Run the project using:
   
