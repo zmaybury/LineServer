@@ -9,12 +9,12 @@ ___
 ###Build the project using:
 
   + build.sh - This script will install all dependencies (through npm) and will also appropriately install and configure a MongoDB database instance for use with the api.
-  + Example Useage: ./build.sh
+  + Example Useage: `./build.sh`
   
 ###Run the project using:
   
   + run.sh - This script will load the specified file and start a Node.JS server with the REST API on your localhost at port 3000.
-  + Example Useage: ./run.sh test/Hamlet.txt
+  + Example Useage: `./run.sh <path/to/file.txt>`
   
 ###Examples of using the REST API with Hamlet by William Shakespeare:
 
